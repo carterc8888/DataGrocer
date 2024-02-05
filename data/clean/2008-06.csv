@@ -1,0 +1,52 @@
+category,item,quantity,Sydney,Melbourne,Brisbane,Adelaide,Perth,Hobart,Darwin,Canberra
+Dairy products,Milk,2 ltr bottle,366,360,322,363,357,384,401,372
+Dairy products,Cheese,500g pkt,495,513,466,509,526,486,555,480
+Dairy products,Butter,500g,392,370,334,337,467,383,425,407
+Bread and cereal products,"Bread white loaf, sliced",650g-700g,339,348,320,328,325,295,388,348
+Bread and cereal products,"Biscuits, dry",250g pkt,228,226,229,229,228,229,234,229
+Bread and cereal products,Breakfast cereal,525g box,395,376,367,376,395,439,387,395
+Bread and cereal products,"Flour, self raising",2kg,329,341,348,387,380,382,402,386
+Bread and cereal products,Rice,1kg,193,223,204,215,264,239,225,200
+Meat and seafoods,Roast beef,1kg,1119,1062,1168,1165,1171,1091,1159,1308
+Meat and seafoods,Rump steak,1kg,1840,1989,2061,1935,1991,2060,1992,1908
+Meat and seafoods,"T-bone steak, with fillet",1kg,2029,2028,2043,2107,2038,1953,2106,1965
+Meat and seafoods,Chuck steak,1kg,974,983,1014,996,1056,1022,1070,1047
+Meat and seafoods,Lamb leg,1kg,986,905,984,871,975,927,877,929
+Meat and seafoods,Lamb loin chops,1kg,1718,1811,1743,1824,1853,1778,1811,1742
+Meat and seafoods,Lamb forequarter chops,1kg,941,924,902,996,968,970,1006,910
+Meat and seafoods,Pork leg,1kg,632,795,729,712,745,860,724,710
+Meat and seafoods,Pork loin chops,1kg,1492,1406,1502,1483,1573,1483,1527,1470
+Meat and seafoods,"Chicken, whole fresh",1kg,530,544,534,585,605,590,542,571
+Meat and seafoods,"Bacon, middle rashers",250g pkt,400,426,410,416,536,333,449,439
+Meat and seafoods,Beef Sausages,1kg,569,575,650,629,681,666,579,675
+Meat and seafoods,"Salmon, pink",210g can,261,256,260,260,281,323,291,290
+Fresh fruit and vegetables,Oranges,1kg,304,298,246,312,337,295,352,300
+Fresh fruit and vegetables,Bananas,1kg,216,232,206,213,306,223,436,185
+Fresh fruit and vegetables,Potatoes,1kg,156,269,222,250,262,202,293,298
+Fresh fruit and vegetables,Tomatoes,1kg,384,372,359,404,420,407,543,322
+Fresh fruit and vegetables,Carrots,1kg,239,220,239,208,159,178,272,241
+Fresh fruit and vegetables,Onions,1kg,248,257,241,251,212,206,322,255
+Processed fruit and vegetables,Peaches,825g can,338,345,344,334,360,339,376,341
+Processed fruit and vegetables,"Pineapple, sliced",450g can,203,205,193,211,204,198,217,206
+Processed fruit and vegetables,"Peas, frozen",500g pkt,185,187,181,199,191,192,225,181
+Snacks and confectionery,Chocolate milk,250g block,410,391,409,377,399,401,393,428
+Other food,Eggs,1 dozen,400,440,440,446,476,431,466,456
+Other food,"Sugar, white",2kg,232,236,219,261,285,358,259,218
+Other food,"Jam, strawberry",500g jar,328,328,327,298,340,337,352,340
+Other food,Teabags,180g pkt,379,395,384,369,399,428,388,381
+Other food,"Coffee, instant",150g jar,761,759,714,782,781,761,776,733
+Other food,Tomato sauce,600ml bottle,200,192,181,193,191,188,208,186
+Other food,"Margarine, poly-unsaturated",500g,303,306,300,289,304,303,314,298
+Other food,"Baked beans, in tomato sauce",420g can,150,149,148,145,145,144,152,144
+Other food,Baby food,110g jar,104,106,103,101,109,100,112,106
+Household supplies,Laundry detergent,1kg,569,572,569,566,564,556,575,547
+Household supplies,Dishwashing detergent,450ml,343,346,326,320,360,334,332,297
+Household supplies,Facial tissues,180 pack,218,224,221,222,213,214,217,229
+Household supplies,Toilet tissue,8 x 190 sheet rolls,657,670,677,683,627,663,706,679
+Household supplies,Pet food,400g can,110,110,109,109,108,122,117,109
+Private motoring,"Petrol, unleaded",1 litre,152,150,143,151,149,156,160,153
+Alcoholic drinks,"Beer, full strength","24 x 375ml bottles, case",3852,3937,3840,3932,4100,4149,4254,3905
+Alcoholic drinks,"Draught beer, low alcohol, public bar",285ml glass,253,306,252,355,339,285,258,257
+Alcoholic drinks,"Draught beer, full strength, public bar",285ml glass,286,377,282,383,344,344,326,288
+Alcoholic drinks,Scotch,30ml nip,486,555,442,567,582,419,496,465
+Personal care products,Toilet soap,4 bar pack,814,765,820,788,790,773,711,781

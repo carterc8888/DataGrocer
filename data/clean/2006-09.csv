@@ -1,0 +1,53 @@
+category,item,quantity,Sydney,Melbourne,Brisbane,Adelaide,Perth,Hobart,Darwin,Canberra
+Dairy products,Milk,2 litre,312.0,320.0,306.0,315.0,299.0,315.0,351.0,306.0
+Dairy products,Cheese,500g,437.0,454.0,464.0,447.0,453.0,441.0,497.0,459.0
+Dairy products,Butter,500g,316.0,348.0,308.0,314.0,309.0,294.0,339.0,310.0
+Bread and cereal products,"Bread white loaf, sliced",650g,291.0,305.0,284.0,288.0,271.0,262.0,325.0,301.0
+Bread and cereal products,"Biscuits, dry",250 g,197.0,201.0,183.0,202.0,186.0,210.0,205.0,200.0
+Bread and cereal products,Breakfast cereal,525 g,356.0,358.0,341.0,352.0,362.0,416.0,361.0,375.0
+Bread and cereal products,"Flour, self raising",2 kg,357.0,392.0,268.0,376.0,409.0,300.0,402.0,393.0
+Bread and cereal products,Rice,1 kg,196.0,215.0,183.0,201.0,220.0,214.0,220.0,198.0
+Meat and seafoods,Roast beef,1 kg,1028.0,1141.0,1179.0,1154.0,1207.0,1144.0,1160.0,1292.0
+Meat and seafoods,Rump steak,1 kg,1824.0,2050.0,1960.0,2001.0,1938.0,2024.0,1966.0,1917.0
+Meat and seafoods,"T-bone steak, with fillet",1 kg,1929.0,1942.0,2000.0,1972.0,1964.0,1875.0,1976.0,1995.0
+Meat and seafoods,Chuck steak,1 kg,1033.0,963.0,950.0,987.0,1016.0,1005.0,1039.0,1062.0
+Meat and seafoods,Lamb leg,1 kg,914.0,856.0,972.0,925.0,982.0,910.0,1024.0,903.0
+Meat and seafoods,Lamb loin chops,1 kg,1729.0,1697.0,1717.0,1685.0,1713.0,1720.0,1877.0,1794.0
+Meat and seafoods,Lamb forequarter chops,1 kg,883.0,897.0,883.0,953.0,944.0,905.0,945.0,892.0
+Meat and seafoods,Pork leg,1 kg,618.0,712.0,653.0,717.0,721.0,824.0,745.0,796.0
+Meat and seafoods,Pork loin chops,1 kg,1364.0,1329.0,1313.0,1435.0,1470.0,1352.0,1464.0,1385.0
+Meat and seafoods,"Chicken, frozen",1 kg,358.0,334.0,359.0,347.0,397.0,361.0,403.0,353.0
+Meat and seafoods,"Bacon, middle rashers",250 g pkt,375.0,396.0,364.0,377.0,502.0,354.0,447.0,387.0
+Meat and seafoods,Sausages,1 kg,535.0,542.0,557.0,575.0,530.0,569.0,512.0,554.0
+Meat and seafoods,"Salmon, pink",210 g can,240.0,238.0,257.0,249.0,264.0,335.0,284.0,272.0
+Fresh fruit and vegetables,Oranges,1 kg,242.0,255.0,256.0,146.0,304.0,275.0,360.0,265.0
+Fresh fruit and vegetables,Bananas,1 kg),1282.0,1271.0,1229.0,1282.0,1274.0,1218.0,1025.0,1329.0
+Fresh fruit and vegetables,Potatoes,1 kg,162.0,243.0,239.0,184.0,220.0,179.0,271.0,289.0
+Fresh fruit and vegetables,Tomatoes,1 kg,353.0,349.0,346.0,431.0,369.0,435.0,498.0,321.0
+Fresh fruit and vegetables,Carrots,1 kg,213.0,188.0,180.0,187.0,145.0,178.0,241.0,209.0
+Fresh fruit and vegetables,Onions,1 kg,263.0,234.0,260.0,241.0,218.0,203.0,305.0,267.0
+Processed fruit and vegetables,Peaches,825 g can,306.0,314.0,306.0,314.0,315.0,304.0,334.0,317.0
+Processed fruit and vegetables,"Pineapple, sliced",450 g can,169.0,160.0,169.0,161.0,167.0,167.0,155.0,165.0
+Processed fruit and vegetables,"Peas, frozen",500 g pkt,172.0,161.0,165.0,154.0,163.0,177.0,191.0,164.0
+Snacks and confectionery,Chocolate milk,250 g,378.0,399.0,370.0,368.0,401.0,373.0,372.0,386.0
+Other food,Eggs,1 dozen,348.0,350.0,339.0,321.0,395.0,357.0,402.0,371.0
+Other food,"Sugar, white",2 kg,194.0,201.0,192.0,210.0,248.0,288.0,230.0,209.0
+Other food,"Jam, strawberry",500 g jar,296.0,319.0,310.0,295.0,318.0,319.0,324.0,319.0
+Other food,Teabags,180 g pkt,377.0,391.0,341.0,340.0,351.0,399.0,359.0,381.0
+Other food,"Coffee, instant",150 g jar,672.0,691.0,631.0,639.0,673.0,722.0,653.0,650.0
+Other food,Tomato sauce,600 ml,194.0,181.0,172.0,173.0,174.0,193.0,175.0,182.0
+Other food,"Margarine, poly-unsaturated",500 g,272.0,278.0,275.0,267.0,278.0,278.0,276.0,281.0
+Other food,"Baked beans, in tomato sauce",420 g,137.0,136.0,119.0,140.0,129.0,138.0,137.0,138.0
+Other food,Baby food,120 g can,81.0,82.0,83.0,82.0,81.0,81.0,79.0,82.0
+Household supplies,Laundry detergent,1 kg,598.0,600.0,598.0,569.0,589.0,604.0,610.0,598.0
+Household supplies,Dishwashing detergent,450 ml,352.0,368.0,355.0,360.0,372.0,361.0,396.0,378.0
+Household supplies,Facial tissues,pkt 180,219.0,220.0,219.0,216.0,213.0,223.0,225.0,219.0
+Household supplies,Toilet paper,8 x 190 sheet rolls,671.0,669.0,641.0,676.0,674.0,675.0,642.0,660.0
+Household supplies,Pet food,400 g,111.0,115.0,111.0,111.0,115.0,124.0,121.0,113.0
+Private motoring,"Petrol, unleaded",1 litre,132.3,132.7,124.2,132.0,129.3,136.8,141.9,135.7
+Alcoholic drinks,"Beer, low alcohol",24 x 355 ml - 375 ml bottles,2490.0,2485.0,2941.0,2612.0,3214.0,2825.0,3096.0,2480.0
+Alcoholic drinks,"Beer, full strength",24 x 375 ml bottles,3708.0,3650.0,3564.0,3558.0,3715.0,3883.0,3935.0,3749.0
+Alcoholic drinks,"Draught beer, low alcohol, public bar",285 ml glass,222.0,273.0,229.0,308.0,320.0,266.0,244.0,229.0
+Alcoholic drinks,"Draught beer, full strength, public bar",285 ml glass,253.0,308.0,254.0,347.0,328.0,313.0,297.0,256.0
+Alcoholic drinks,Scotch,30 ml,448.0,486.0,407.0,532.0,509.0,385.0,445.0,406.0
+Personal care products,Toilet soap,4 x 125g,292.0,289.0,265.0,279.0,299.0,292.0,313.0,290.0

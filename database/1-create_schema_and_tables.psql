@@ -1,0 +1,75 @@
+-- Add the absdata schema
+DROP SCHEMA IF EXISTS absdata CASCADE;
+
+CREATE SCHEMA IF NOT EXISTS absdata
+    AUTHORIZATION postgres;
+	
+-- Add the location table
+DROP TABLE IF EXISTS absdata.location;
+
+CREATE TABLE IF NOT EXISTS absdata.location
+(
+    name TEXT NOT NULL,
+    CONSTRAINT location_pkey PRIMARY KEY (name)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS absdata.location
+    OWNER to postgres;
+-- Add the category table
+DROP TABLE IF EXISTS absdata.category;
+
+CREATE TABLE IF NOT EXISTS absdata.category
+(
+    name TEXT NOT NULL,
+    constraint category_pkey PRIMARY KEY (name)
+)
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS absdata.category
+    OWNER to postgres;
+
+-- Add the item table
+DROP TABLE IF EXISTS absdata.item;
+
+CREATE TABLE IF NOT EXISTS absdata.item
+(
+    name TEXT NOT NULL,
+    category TEXT NOT NULL, 
+    CONSTRAINT item_category_fkey FOREIGN KEY (category)
+        REFERENCES absdata.category (name) MATCH FULL
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION,
+    CONSTRAINT item_pkey PRIMARY KEY (name)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS absdata.item
+    OWNER to postgres;
+
+-- Add the price table
+DROP TABLE IF EXISTS absdata.price;
+
+CREATE TABLE IF NOT EXISTS absdata.price
+(
+    location text NOT NULL,
+    item text NOT NULL,
+    date date NOT NULL,
+    price numeric(8,0) NOT NULL,
+    CONSTRAINT price_location_fkey FOREIGN KEY (location)
+        REFERENCES absdata.location (name) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION,
+    CONSTRAINT price_item_fkey FOREIGN KEY (item)
+        REFERENCES absdata.item (name) MATCH SIMPLE
+        ON UPDATE NO ACTION
+        ON DELETE NO ACTION,
+    CONSTRAINT price_pkey PRIMARY KEY (location, item, date)
+)
+
+TABLESPACE pg_default;
+
+ALTER TABLE IF EXISTS absdata.price
+    OWNER to postgres;

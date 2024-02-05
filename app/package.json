@@ -1,0 +1,33 @@
+{
+  "name": "app",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview",
+    "format": "prettier --write  --plugin prettier-plugin-svelte ."
+  },
+  "devDependencies": {
+    "@rollup/plugin-json": "^6.0.0",
+    "@sveltejs/adapter-auto": "^2.0.0",
+    "@sveltejs/kit": "^1.20.4",
+    "autoprefixer": "^10.4.15",
+    "postcss": "^8.4.28",
+    "prettier": "^3.0.3",
+    "prettier-plugin-svelte": "^3.0.3",
+    "svelte": "^4.0.5",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.2"
+  },
+  "type": "module",
+  "dependencies": {
+    "chart.js": "^4.4.0",
+    "chartjs-chart-geo": "^4.2.4",
+    "flowbite-svelte": "^0.44.15",
+    "flowbite-svelte-icons": "^0.4.3",
+    "knex": "^2.5.1",
+    "pg": "^8.11.3",
+    "svelte-chartjs": "^3.1.2"
+  }
+}

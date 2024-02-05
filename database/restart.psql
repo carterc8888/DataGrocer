@@ -1,0 +1,7 @@
+DO $$ DECLARE
+   r RECORD;
+BEGIN
+   FOR r IN (SELECT tablename FROM pg_tables WHERE schemaname = 'absdata') LOOP
+       EXECUTE 'TRUNCATE TABLE absdata.' || r.tablename || ' CASCADE';
+   END LOOP;
+END $$;
